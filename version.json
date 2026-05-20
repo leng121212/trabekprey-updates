@@ -1,6 +1,7 @@
 {
-  "version": "2.0.2",
-  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.2/TrabekPrey_TTS.exe",
-  "sha256": "9092F0507F68B19C7F88114BD532B5120479AAC25AC28BC2E2FA8B684E6B3AA3",
-  "notes": "Added Paste buttons and Check Update info."
+  "version": "2.0.3",
+  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.3/TrabekPrey_TTS.exe",
+  "sha256": "AAB76E567739CF725E54798482A3E3F552937D1204B6D25EEC4BE3A5C48E48F6",
+  "updated_at": "2026-05-21",
+  "notes": "Fixed updater path and download timeout."
 }

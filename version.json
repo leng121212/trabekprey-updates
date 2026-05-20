@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/latest",
-  "sha256": "0",
-  "notes": "No update has been published yet."
+  "version": "2.0.1",
+  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.1/TrabekPrey_TTS.exe",
+  "sha256": "0ABD8374DEBAB9AD0DAF688746A1A50143D1398663DDD8B24AFA56410845067C",
+  "notes": "First auto-update version."
 }

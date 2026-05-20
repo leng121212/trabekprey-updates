@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.1/TrabekPrey_TTS.exe",
-  "sha256": "0ABD8374DEBAB9AD0DAF688746A1A50143D1398663DDD8B24AFA56410845067C",
-  "notes": "First auto-update version."
+  "version": "2.0.2",
+  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.2/TrabekPrey_TTS.exe",
+  "sha256": "9092F0507F68B19C7F88114BD532B5120479AAC25AC28BC2E2FA8B684E6B3AA3",
+  "notes": "Added Paste buttons and Check Update info."
 }

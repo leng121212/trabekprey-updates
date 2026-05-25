@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.3/TrabekPrey_TTS.exe",
-  "sha256": "AAB76E567739CF725E54798482A3E3F552937D1204B6D25EEC4BE3A5C48E48F6",
-  "updated_at": "2026-05-21",
-  "notes": "Fixed updater path and download timeout."
+  "version": "2.0.5",
+  "updated_at": "2026-05-25",
+  "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.5/TrabekPrey_TTS.exe",
+  "sha256": "246AC6B88FC9E5BC372CFA325189190EDA5CC5A293FD5D7EF6E70B18B33C8522",
+  "notes": "Added provider-based Translate settings, JSON API Key support, icon update, and Separate fixes."
 }

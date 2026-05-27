@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.9",
-    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.9/TrabekPrey_TTS.exe",
-    "sha256":  "0a66835b3faa495917080732212477788be14e37b0c92d28ff7a9b24df7cefc4",
+    "version":  "2.0.10",
+    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.10/TrabekPrey_TTS.exe",
+    "sha256":  "653c849574cd51c7c744aeea950d713b73e011ccb1e4643a4220a11f69467f89",
     "updated_at":  "2026-05-27",
-    "notes":  "TrabekPrey TTS v2.0.9"
+    "notes":  "TrabekPrey TTS v2.0.10"
 }

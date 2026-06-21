@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.15",
-    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.15/TrabekPrey_TTS.exe",
-    "sha256":  "839dcef12b7f461a85c6b8292e84f045be893be417f71638f30a422f50620984",
-    "updated_at":  "2026-06-11",
-    "notes":  "TrabekPrey TTS v2.0.15"
+    "version":  "2.0.18",
+    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.18/TrabekPrey_TTS.exe",
+    "sha256":  "c0406c48d81c452204869133cefd107732420a9969ea3f685475077f727a65d9",
+    "updated_at":  "2026-06-21",
+    "notes":  "TrabekPrey TTS v2.0.18 - bundled ASR runtime detection fix"
 }

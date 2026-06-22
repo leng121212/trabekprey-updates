@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.21",
-    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.21/TrabekPrey_TTS.exe",
-    "sha256":  "feb8f329127c8d88c0a07f4b6b220c4bedd01c88f7308009bcb88ec05eedca0b",
-    "updated_at":  "2026-06-22",
-    "notes":  "TrabekPrey TTS v2.0.21 - Windows PyTorch runtime fix"
+    "version":  "2.0.22",
+    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.22/TrabekPrey_TTS.exe",
+    "sha256":  "1399391f40ce6aabb4120bd061d839ac00fb35f979a693ba987971b7807d6d16",
+    "updated_at":  "2026-06-23",
+    "notes":  "TrabekPrey TTS v2.0.22 - stronger ASR runtime DLL preload diagnostics"
 }

@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.19",
-    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.19/TrabekPrey_TTS.exe",
-    "sha256":  "03fcd01fe8d471f24b9544c0374c63d6647ce4bdeb0c9e75111c8d0b8b01c287",
-    "updated_at":  "2026-06-21",
-    "notes":  "TrabekPrey TTS v2.0.19 - Windows HTTPS and bundled ASR fixes"
+    "version":  "2.0.21",
+    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.21/TrabekPrey_TTS.exe",
+    "sha256":  "feb8f329127c8d88c0a07f4b6b220c4bedd01c88f7308009bcb88ec05eedca0b",
+    "updated_at":  "2026-06-22",
+    "notes":  "TrabekPrey TTS v2.0.21 - Windows PyTorch runtime fix"
 }

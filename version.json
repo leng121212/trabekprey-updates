@@ -1,7 +1,7 @@
 {
-    "version":  "2.0.28",
-    "download_url":  "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.28/TrabekPrey_TTS.exe",
-    "sha256":  "07926adecdc0f8f9b2e8f32ec57a269a87da251295cc5bcdaa32f2cd7ca4f1fd",
-    "updated_at":  "2026-07-06",
-    "notes":  "TrabekPrey TTS v2.0.28"
+    "version": "2.0.29",
+    "download_url": "https://github.com/leng121212/trabekprey-updates/releases/download/v2.0.29/TrabekPrey_TTS.exe",
+    "sha256": "5eeb4ced8629b3e4fce303e273588e6740689a763c742d7c51489c1ff1d15da8",
+    "updated_at": "2026-10-16",
+    "notes": "TrabekPrey TTS v2.0.29 - Fix Piseth & Sreymom voices error & improve TTS reliability"
 }
